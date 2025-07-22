@@ -1,3 +1,5 @@
+URL FOR DOWNLOAD EXE STUP FILE : https://drive.google.com/file/d/1gQFCpsCOgtyv9sv1WS8xBVSWYgrHrGz7/view?usp=sharing
+
 โปรแกรมเล่นสื่ออัตโนมัติ (Automated Media Player System)
 ออกแบบและพัฒนาโดย: นายเพ็ญเพชร ไกรทอง
 โปรแกรมนี้เป็นระบบเล่นสื่ออัตโนมัติที่พัฒนาขึ้นด้วยภาษา Python และไลบรารี Tkinter, VLC, และอื่นๆ เพื่อตอบสนองความต้องการในการจัดการและเล่นไฟล์สื่อ (เสียงและวิดีโอ) 
